@@ -23,3 +23,16 @@ C:\Users\ACER\Desktop\Project001\Project01\bin\Debug\Project01.exe.config
 C:\Users\ACER\Desktop\Project001\Project01\bin\Debug\Project01.exe
 C:\Users\ACER\Desktop\Project001\Project01\bin\Debug\Project01.pdb
 C:\Users\ACER\Desktop\Project001\Project01\obj\Debug\Project01.Form4.resources
+D:\code\WindForm\Project\bin\Debug\Project01.exe.config
+D:\code\WindForm\Project\bin\Debug\Project01.exe
+D:\code\WindForm\Project\bin\Debug\Project01.pdb
+D:\code\WindForm\Project\obj\Debug\Project01.csprojAssemblyReference.cache
+D:\code\WindForm\Project\obj\Debug\Project01.Form1.resources
+D:\code\WindForm\Project\obj\Debug\Project01.Form2.resources
+D:\code\WindForm\Project\obj\Debug\Project01.Form3.resources
+D:\code\WindForm\Project\obj\Debug\Project01.Form4.resources
+D:\code\WindForm\Project\obj\Debug\Project01.Properties.Resources.resources
+D:\code\WindForm\Project\obj\Debug\Project01.csproj.GenerateResource.cache
+D:\code\WindForm\Project\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+D:\code\WindForm\Project\obj\Debug\Project01.exe
+D:\code\WindForm\Project\obj\Debug\Project01.pdb
