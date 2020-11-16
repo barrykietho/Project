@@ -46,6 +46,12 @@ namespace Project01
                 label1.Height = 30;
                 label1.Text = arrayListAmount[i].ToString();
                 nguyenLieuConvert.Controls.Add(label1);
+
+                Label label2 = new Label();
+                label2.Width = 80;
+                label2.Height = 30;
+                label2.Text = "=>";
+                Kihieu.Controls.Add(label2);
             }
         }
         private void SlipString(String nglieu)
@@ -73,6 +79,11 @@ namespace Project01
             result = double.Parse(tb_so_ng.Text) * value / double.Parse(tb_so_ng_ct.Text);
             arrayListAmount.Add(result);
                
+        }
+
+        private void tb_so_ng_ct_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
